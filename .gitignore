@@ -1,1 +1,10 @@
 /test_images/
+test_images.tar.gz
+notebooks/data/cifar-10-batches-py/batches.meta
+notebooks/data/cifar-10-batches-py/data_batch_1
+notebooks/data/cifar-10-batches-py/data_batch_2
+notebooks/data/cifar-10-batches-py/data_batch_3
+notebooks/data/cifar-10-batches-py/data_batch_4
+notebooks/data/cifar-10-batches-py/data_batch_5
+notebooks/data/cifar-10-batches-py/test_batch
+notebooks/data/cifar-10-python.tar.gz
